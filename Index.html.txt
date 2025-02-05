@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Grade 3 Science Class</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 40px;
+padding: 20px;
+
+background-color: #f4f4f4;
+}
+.container {
+background: white;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px gray;
+}
+h1, h2 {
+color: #2c3e50;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Grade 3 Science Class</h1>
+<h2>Understanding the Water Cycle</h2>
+<p><strong>Objective:</strong> Students will understand the water cycle, including evaporation, condensation, precipitation, and collection, through interactive activities and observations.</p>
+<h3>Materials Needed:</h3>
+<ul>
+<li>Water</li>
+<li>Clear plastic cups</li>
+<li>Markers</li>
+<li>Small mirrors</li>
+<li>Cotton balls</li>
+<li>Ice cubes</li>
+<li>Sunlight or a lamp</li>
+</ul>
+<h3>Lesson Structure:</h3>
+<ol>
+<li><strong>Introduction:</strong> Discuss where rain comes from and key water cycle terms.</li>
+<li><strong>Evaporation Experiment:</strong> Observe water levels in the sun and shade.</li>
+<li><strong>Condensation Demonstration:</strong> Use mirrors to observe condensation.</li>
+<li><strong>Precipitation Simulation:</strong> Use cotton balls soaked in water to demonstrate precipitation.</li>
+<li><strong>Discussion & Review:</strong> Connect observations to the water cycle.</li>
+</ol>
+<h3>Assessment:</h3>
+<p>Students will draw and label their own water cycle diagrams and describe real-life examples.</p>
+<h3>Conclusion:</h3>
+<p>Review the importance of the water cycle and encourage students to observe it in daily life.</p>
+</div>
+</body>
+</html>
